@@ -290,3 +290,10 @@ body {
     font-weight: lighter;
   }
 }
+footer{
+  padding:20px;
+  margin-top:10px;
+  color:white;
+  background-color: #000000;
+  text-align: center;
+}
